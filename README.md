@@ -28,10 +28,13 @@ GLuint create_shader(string filename, GLenum type)
 http://en.wikibooks.org/wiki/GLSL_Programming/GLUT
 
 result:
+
 diffuse:
 ![alt tag](https://raw.githubusercontent.com/pramanc/precomputed-radiance-transfer/master/res1.png)
+
 glossy:
 ![alt tag](https://raw.githubusercontent.com/pramanc/precomputed-radiance-transfer/master/res2.png)
+
 performance:
 ![alt tag](https://raw.githubusercontent.com/pramanc/precomputed-radiance-transfer/master/res3.png)
 
