@@ -16,8 +16,10 @@ dependency: opengl,AnttweakBar,glm,Eigen,Cimg
 Code from the website:
 1.  The part to load a HDR image:HDRLoader.cpp, HDRLoader.h
 http://svn.openscenegraph.org/osg/OpenSceneGraph/branches/OpenSceneGraph-2.6/src/osgPlugins/hdr/hdrloader.cpp
+
 2.  The code of rotation of Spherical Harmonics is copied from Paul Debevec’ s project.
 http://www.paulsprojects.net/opengl/sh/sh.html
+
 3.  Create shader route: ShaderFunc.cpp,ShaderFunc.h
 Two functions:
 char* file_read(string filename)
