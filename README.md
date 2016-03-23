@@ -14,6 +14,7 @@ prt -o -g 1 xxxx.obj output.txt bandnumber samplenumber
 dependency: opengl,AnttweakBar,glm,Eigen,Cimg
 
 Code from the website:
+
 1.  The part to load a HDR image:HDRLoader.cpp, HDRLoader.h
 http://svn.openscenegraph.org/osg/OpenSceneGraph/branches/OpenSceneGraph-2.6/src/osgPlugins/hdr/hdrloader.cpp
 
