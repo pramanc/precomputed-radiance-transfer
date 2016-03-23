@@ -44,7 +44,7 @@ performance:
 
 ![alt tag](https://raw.githubusercontent.com/pramanc/precomputed-radiance-transfer/master/res3.png)
 
-Any problem,please contact 568351074@qq.com
+Any problem, contact 568351074@qq.com
 
 
 
